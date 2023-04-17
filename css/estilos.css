@@ -1,0 +1,39 @@
+
+
+
+.contenedor__padre{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    padding: 20px;
+}
+
+.contenedor__padre div{
+    padding: 10px;
+}
+
+.texto__encriptar, .texto__encriptado{
+    /*border: none;*/
+    padding: 20px;
+    border: 1px solid orange;
+}
+
+.sugerencia {
+    font-size: 13px;
+    color: rgba(0,0,0,.54);
+}
+
+.btn__encriptar{
+    background: #0A3871;
+border-radius: 24px;
+}
+
+.btn__desencriptar{
+ /* Light gray */
+
+background: #D8DFE8;
+/* Dark blue/dark-blue-300 */
+
+border: 1px solid #0A3871;
+border-radius: 24px;
+}
