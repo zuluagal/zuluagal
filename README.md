@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Zuluaga</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<img align="right" alt="Zul Developer" width="400" src="https://andrew.mi.com.co:2083/cpsess1798668310/frontend/jupiter/filemanager/showfile.html?file=dev.png&fileop=&dir=%2Fhome%2Fuleonarnsx%2Fpublic_html%2Fassets&dirop=&charset=&file_charset=&baseurl=&basedir=">
+<img align="right" alt="Zul Developer" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lauravagarciaa&label=Profile%20views&color=0e75b6&style=flat" alt="lauravagarciaa" /> </p>
