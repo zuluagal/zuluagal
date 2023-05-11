@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Zuluaga</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<img align="right" alt="Zul Developer" width="400" src="https://www.dice.com/binaries/content/gallery/dice/insights/2018/01/Freelance-Developer-Dice.jpeg">
+<img align="right" alt="Zul Developer" width="400" src="https://img.favpng.com/18/16/23/network-cartoon-png-favpng-UjmyBJS1DbF3n7Cr74Fj61erU.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lauravagarciaa&label=Profile%20views&color=0e75b6&style=flat" alt="lauravagarciaa" /> </p>
