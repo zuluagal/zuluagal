@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lauravagarciaa&label=Profile%20views&color=0e75b6&style=flat" alt="lauravagarciaa" /> </p>
 
-- 🌱 I’m currently learning **Frontend Html, CSS, JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **lzuluaga@leonardozuluaga.com.co**
 
