@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+
 
 - 📫 How to reach me **lzuluaga@leonardozuluaga.com.co**
 
