@@ -4,7 +4,7 @@
 <img align="right" alt="Zul Developer" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauravagarciaa&label=Profile%20views&color=0e75b6&style=flat" alt="lauravagarciaa" /> </p>
+
 
 - 🌱 I’m currently learning **React**
 
